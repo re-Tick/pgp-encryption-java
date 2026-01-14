@@ -1,6 +1,7 @@
 ## CryptoUtility
 `CryptoUtility` is a Java class that provides methods for encrypting and decrypting files using PGP (Pretty Good Privacy) encryption. PGP is a widely used encryption standard that allows for secure communication and data storage.
 
+
 ## Dependencies
 `CryptoUtility` requires the following external libraries:
 
